@@ -1,0 +1,61 @@
+
+
+body{
+    
+background-image: radial-gradient(rgb(246, 245, 255) 0%, gray 100%);
+  font-family: "Trebuchet MS";
+  }
+
+
+  #top{
+      text-align: center;
+  }
+
+  #message-container{
+    width: 450px;
+  min-height: 350px;
+  margin: 50px auto;
+ 
+  border: solid 4px #2c3033;
+  
+  box-shadow: 0 0 0px 1px rgba(255,255,255,.4),
+                        0 0 0px 3px #2c3033;
+                        text-align: center;
+                        max-height: 50vh;
+    overflow-y: scroll;
+                        
+  }
+
+#user-container{
+    width: 450px;
+  min-height: 350px;
+  margin: 50px auto;
+ 
+  border: solid 4px #2c3033;
+  
+  box-shadow: 0 0 0px 1px rgba(255,255,255,.4),
+                        0 0 0px 3px #2c3033;
+                        text-align: center;
+                        max-height: 50vh;
+    overflow-y: scroll;
+                        
+  }
+
+  .smsTitle{
+    display: inline-block;
+    margin-right:5px;
+    width: 80%;
+    
+  }
+
+  .user {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    
+    border: 2px solid #ddd;
+}
+  
+
+ 
